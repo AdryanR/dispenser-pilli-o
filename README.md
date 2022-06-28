@@ -26,8 +26,8 @@ O dispensador tem 15 compartimentos utilizáveis para colocar medicamentos. Poss
 ## Projeto
 Esta aplicação faz parte de um projeto onde trabalhei com mais três pessoas: [Gabriel](https://github.com/mogba) , [Paloma](https://github.com/Paloma-Marian) e [Ricardo](https://github.com/ricardo-14).
 
-Este dispensador possui um completo sistema onde é possível fazer a sua configuração e gerenciamento de alarmes.
-O front-end pode ser [acessado aqui](https://github.com/mogba/pillio)
+Este dispensador possui um completo sistema onde é possível fazer a sua configuração e gerenciamento de alarmes.<br>
+O front-end pode ser [acessado aqui](https://github.com/mogba/pillio)<br>
 O back-end pode ser [acessado aqui](https://github.com/AdryanR/api-pilli-o)
 
 Para exemplificar as funções, prints do front-end:
