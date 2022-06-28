@@ -53,7 +53,8 @@ Esta aplicação faz parte de um projeto onde trabalhei com mais três pessoas: 
 
 Este dispensador possui um completo sistema onde é possível fazer a sua configuração e gerenciamento de alarmes.<br>
 <b>O front-end pode ser [acessado aqui](https://github.com/mogba/pillio)</b><br>
-<b>O back-end pode ser [acessado aqui](https://github.com/AdryanR/api-pilli-o)</b>
+<b>O back-end pode ser [acessado aqui](https://github.com/AdryanR/api-pilli-o)</b><br>
+<b>O código do Dispenser pode ser [acessado aqui](https://github.com/AdryanR/dispenser-pilli-o)</b>
 
 
 ## Como usar
