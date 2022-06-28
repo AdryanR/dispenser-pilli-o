@@ -47,27 +47,9 @@ Umas das funcionalidades é a rede Wi-FI que o dispenser gera com um captive por
 Esta aplicação faz parte de um projeto onde trabalhei com mais três pessoas: [Gabriel](https://github.com/mogba) , [Paloma](https://github.com/Paloma-Marian) e [Ricardo](https://github.com/ricardo-14).
 
 Este dispensador possui um completo sistema onde é possível fazer a sua configuração e gerenciamento de alarmes.<br>
-O front-end pode ser [acessado aqui](https://github.com/mogba/pillio)<br>
-O back-end pode ser [acessado aqui](https://github.com/AdryanR/api-pilli-o)
+<b>O front-end pode ser [acessado aqui](https://github.com/mogba/pillio)</b><br>
+<b>O back-end pode ser [acessado aqui](https://github.com/AdryanR/api-pilli-o)</b>
 
-Para exemplificar as funções, prints do front-end:
-<p align="center">
-  <img
-    width="25%"
-    alt="sistema-menu"
-    src="https://user-images.githubusercontent.com/56984939/175789879-7a5b88ee-ef67-45d5-9a8e-725dedd27fea.png"
-  >
-  <img
-    width="25%"
-    alt="sistema-home"
-    src="https://user-images.githubusercontent.com/56984939/175789890-57a6b942-bfe5-49fc-9fce-2063fb71211b.png"
-  >
-  <img
-    width="25%"
-    alt="app-edit-alarm"
-    src="https://user-images.githubusercontent.com/56984939/175789908-1a444535-4eae-4da8-bb2e-7659db9ba412.png"
-  >
-</p>
 
 ## Como usar
 ```
