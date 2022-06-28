@@ -8,6 +8,11 @@ Prótótipo de dispenser de medicamentos automátizado para idosos utilizando si
     alt="Dispenser prototype with circular shape"
     src="https://user-images.githubusercontent.com/56984939/175790549-d4c8776e-41c4-46e5-bc72-2e3f99bc8b58.png"
   >
+    <img
+    width="45%"
+    alt="Dispenser prototype with circular shape1"
+    src="https://user-images.githubusercontent.com/92650594/176315004-7bbb2ab9-2b1d-4af0-8b43-3ba619273c4d.jpg"
+  >
 </p>
 
 O dispensador tem 15 compartimentos utilizáveis para colocar medicamentos. Possuindo um alarme sonoro quando chegar a hora do remédio e na tampa um mecanismo que registra quando um idoso retira o medicamento do aparelho, para monitorar se "tomou" ou não o medicamento.
