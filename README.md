@@ -19,6 +19,26 @@ O dispensador tem 15 compartimentos utilizáveis para colocar medicamentos. Poss
 - Captive Portal (com scan de redes próximas)
 - Wi-FI
 
+Umas das funcionalidades é a rede Wi-FI que o dispenser gera com um captive portal, para escolher a rede no qual vai ser conectado.
+
+<p align="center">
+  <img
+    width="20%"
+    alt="Captive portal gerado pelo dispenser"
+    src="https://user-images.githubusercontent.com/92650594/176282171-33bf97c8-f6d0-4b97-b263-948cb4191b66.jpeg"
+  >
+  <img
+    width="20%"
+    alt="Captive portal gerado pelo dispenser"
+    src="https://user-images.githubusercontent.com/92650594/176282166-94d9987a-bf58-441e-99ad-3a0096843b1d.jpeg"
+  >
+  <img
+    width="20%"
+    alt="Captive portal gerado pelo dispenser"
+    src="https://user-images.githubusercontent.com/92650594/176282155-76dd6458-c1f4-4bdd-a1eb-631ff98f0e92.jpeg"
+  >
+</p>
+
 ## Stack utilizada
 
 - C++ (Arduino), [Mqtt](https://mqtt.org/)
